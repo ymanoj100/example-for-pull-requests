@@ -1,2 +1,1 @@
-This is example created in main branch
-on main branch extra commit for conflict
+conflicting change
